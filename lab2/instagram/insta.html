@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+        <meta charset="UTF-8">
+        <title>Instagram Log in</title>
+        <style>
+            body{
+                background-color: rgba(var(--b3f,250,250,250),1)
+            }
+            #phone{
+                width: 25vw;
+                height: 65vh;
+                margin-left: 20vw;
+                margin-top: 10vh;
+            }
+            .Login_block{
+                position: absolute;
+                width: 25vw;
+                height: 44vh;
+                top: 10vh;
+                left: 50vw;
+                box-shadow: 0px 0px 1px 1px lightgray;
+                text-align: center;
+                background-color: white;
+                
+            }
+            #logo{
+                padding-top: 30px;
+                padding-bottom: 15px;
+                width: 13vw;
+                text-align: center;
+                
+            }
+            
+            .form input{
+                width: 18vw;
+                height: 1.5vh;
+                margin-bottom: 7px;
+                font-size: 13px;
+                padding: 10px;
+                border-radius: 1px;
+                border: 1px solid #eeebeb;
+                background-color: rgba(var(--b3f,250,250,250),1);
+              
+            }
+            .form button{
+                text-align: center;
+                border-radius: 8px;
+                background-color: rgb(8, 170, 245);
+                width: 19.7vw;
+                height: 3.5vh;
+                font-size: 15px;
+                padding-bottom: 3px;
+                font-weight: bold;
+                color: whitesmoke;
+                cursor: pointer;
+                border: none;
+            }
+            .form p{
+                color: #717171;
+                white-space: break-spaces;
+                font-size: 16px;
+                
+            }
+            .facebook{
+               
+                width: 15px;
+                height: 16px;
+
+               
+            }
+            .loginfb{
+                font-weight: 550;
+                font-size: 14px;
+                color: #385185;
+                font-family: 'Roboto', sans-serif;
+                text-decoration: none;
+               
+
+            }
+            .forgot_password{
+                position: absolute;
+                text-decoration: none;
+                top: 40vh;
+                left: 9vw;
+
+            }
+            .Sign_up{
+                padding-top: 17px;
+                padding-bottom: 17px;
+                position: absolute;
+                background-color:white;
+                text-align: center;
+                width: 25vw;
+                box-shadow: 0px 0px 1px 1px lightgray;
+                top: 56vh;
+                left: 50vw;
+            }
+            .register{
+                color:rgb(8, 170, 245);
+                text-decoration: none;
+            }
+
+           .get_app_title{
+                position: absolute;
+                left: 60vw;
+                top:65vh;
+           }
+           .ios{
+               position: absolute;
+               top: 70vh;
+               left: 53vw;
+               width: 10vw;
+           }
+           .android{
+                position: absolute;
+                top: 70vh;
+                left: 63.5vw;
+                width: 10vw;
+
+           }
+           .words{
+                position: absolute;
+                left: 20vw;
+                top: 85vh;
+                font-size: 13px;
+                white-space: break-spaces;
+           }
+           .from_meta{
+                position: absolute;
+                left: 40vw;
+                top: 90vh;
+                font-size: 13px;
+                white-space: break-spaces;
+           }
+        
+        </style>
+  
+  </head> 
+  <body>
+        <div class="main">
+            <img src="gram.png" id="phone">
+             
+            <div class="Login_block">
+                <img src="inst_logo.svg.png" id="logo">
+                <div class="form">
+                    <form action="">
+                        <input type="text" placeholder="Phone number, username, or email"><br/>
+                        <input type="password" placeholder="Password"><br/>
+                        <button type="submit">Log in</button><br/>
+                        <p>───────    OR    ───────</p>
+                        <a href="https://www.facebook.com/" ><img src="facebook.png" class="facebook"></a>
+                        <a href="https://www.facebook.com/"class="loginfb">Log in with Facebook</a><br/>
+                        <a href="https://www.instagram.com/accounts/password/reset/" class="forgot_password">Forgot password?</a>
+                    </form>
+                </div>
+
+            </div>
+            <div class="Sign_up">
+                   <a>Don't you have an account</a>
+                   <a href="https://www.instagram.com/accounts/emailsignup/" class="register">Sign up</a>
+
+
+            </div>
+            <div class="get_the_app">
+                <a class="get_app_title">Get the app.</a>
+                <a href="https://apps.apple.com/app/instagram/id389801252?vt=lo"><img src="apple.png" class="ios"></a>
+                <a href="https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=US"><img src="google.png" class="android"></a>
+                <p class="words">       Meta     About     BlogJobs     API     Privacy     Terms     Top     Accounts     Locations     Instagram     LiteContact     Contact Uploading & Non-Users
+                    </p>
+                <p class="from_meta"> English        © 2023 Instagram from Meta</p>
+            </div>
+
+            
+        </div>
+  
+
+  </body>
+</html>
