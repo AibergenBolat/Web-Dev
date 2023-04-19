@@ -4,14 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71e5c46d-bd46-4f33-8144-356dfdd83167" name="Changes" comment="" />
+    <list default="true" id="71e5c46d-bd46-4f33-8144-356dfdd83167" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Lab4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/1.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/10.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/10.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/11.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/11.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/12.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/12.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/2.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/3.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/4.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/5.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/6.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/6.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/7.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/8.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/9.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/9.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/.angular/cache/15.1.6/angular-webpack/92a5f5077782d32f016d3211f8fffcf5728142cb/index.pack.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/cart/cart.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/cart/cart.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/categories.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/categories.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/product-details/product-details.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/product-details/product-details.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/product-details/product-details.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/product-details/product-details.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/product-details/product-details.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/product-details/product-details.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/products.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-w6ilxt-sxl225/src/app/products.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M2y8ANbxRC4s9pvxXTGfPYuB13" />
   <component name="ProjectViewState">
@@ -29,6 +67,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/aibergen1403icloud.com/Desktop/WebDev/Lab4/angular-w6ilxt-sxl225/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -41,10 +80,24 @@
       <option name="presentableId" value="Default" />
       <updated>1676979809945</updated>
       <workItem from="1676979812289" duration="824000" />
+      <workItem from="1676981213779" duration="5231000" />
+      <workItem from="1677591033911" duration="1192000" />
+      <workItem from="1677592301900" duration="14032000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

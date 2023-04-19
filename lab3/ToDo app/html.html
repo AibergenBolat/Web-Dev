@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
     <link rel="stylesheet" href="style.css"> 
-    <script src="https://kit.fontawesome.com/ebbaf8c785.js" crossorigin="anonymous"></script>
+    <!-- <script src="https://kit.fontawesome.com/ebbaf8c785.js" crossorigin="anonymous"></script> -->
 
     
 </head>
@@ -21,7 +21,9 @@
             <input type="text" placeholder="New Task">
              <button id ="push">Add</button>
         </div>
-        <div id="tasks"></div>
+        <div id="tasks">
+            
+        </div>
    
 
 <script type="text/javascript">
@@ -45,7 +47,7 @@ else{
     `;
     document.querySelector('#newtask input').value = ''
     var current_tasks = document.querySelectorAll(".delete");
-    for(var i = 0; i < current_tasks.length; i++){
+    for(let i = 0; i < current_tasks.length; i++){
           current_tasks[i].onclick = function(){
               this.parentNode.remove()
           }

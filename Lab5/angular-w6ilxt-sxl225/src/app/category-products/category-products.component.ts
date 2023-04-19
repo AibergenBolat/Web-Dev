@@ -17,7 +17,6 @@ export class CategoryProductsComponent implements OnInit{
     const routeParams = this.route.snapshot.paramMap;
     const catIdFromRoute = Number(routeParams.get('categoryId'));
     this.products = productsList.filter(p => p.category.id == catIdFromRoute)
-
   }
   share(p: Product) {
     const url = encodeURI(p.prodLink);

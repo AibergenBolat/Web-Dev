@@ -32,9 +32,12 @@ export class AlbumsComponent implements OnInit {
   }
 
   addAlbum(){
-
+    this.loaded = false;
     this.albumService.addAlbum(this.newAlbum).subscribe((album) =>{
-      console.log(album);
+      this.albums.unshift(album);
+      this.loaded = true;
+      this.newAlbum = {} as Album;
+      // console.log(album);
     });
   }
 }
